@@ -98,7 +98,7 @@ https://archive.ics.uci.edu/dataset/320/student+performance
 ![Grade Scatter Plot](grade_scatterplot.png)
 
 # Actual vs Predicted Grades
-![Actual vs Predicted Grades](actual_vs_predicted_grades.png)
+![Actual vs Predicted Grades](actual_vs_predicted%20grades.png)
 
 # Prediction Interface
 ![Prediction Interface](prediction_final_grade.png)

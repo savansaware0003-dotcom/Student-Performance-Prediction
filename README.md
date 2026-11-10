@@ -1,3 +1,4 @@
+
 # Student Performance Prediction System
 
  1. Project Overview
@@ -83,25 +84,24 @@ Predicted final mathematics grade: **11.97 / 20**
  8. Project Screenshots
 
 # Dataset Preview
-![Dataset Preview](screenshots/dataset_preview.png)
-
+"C:\Users\SAVAN SAWARE\OneDrive\Desktop\Student-Performance-Prediction\screenshots\actual_vs_predicted grades.png"
 # Grade Distribution
-![Grade Distribution](screenshots/grade_distribution.png)
+![Grade Distribution](grade_distribution.png)
 
 # Study Time Analysis
-![Study Time Box Plot](screenshots/study_time_boxplot.png)
+![Study Time Box Plot](study_time_boxplot.png)
 
 # Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 # G2 vs G3 Scatter Plot
-![Grade Scatter Plot](screenshots/grade_scatterplot.png)
+![Grade Scatter Plot](grade_scatterplot.png)
 
 # Actual vs Predicted Grades
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 # Prediction Interface
-![Prediction Interface](screenshots/prediction_interface.png)
+![Prediction Interface](prediction_interface.png)
 
  9. How to Run the Project
 

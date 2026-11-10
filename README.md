@@ -84,7 +84,7 @@ Predicted final mathematics grade: **11.97 / 20**
  8. Project Screenshots
 
 # Dataset Preview
-"C:\Users\SAVAN SAWARE\OneDrive\Desktop\Student-Performance-Prediction\screenshots\actual_vs_predicted grades.png"
+https://archive.ics.uci.edu/dataset/320/student+performance
 # Grade Distribution
 ![Grade Distribution](grade_distribution.png)
 

@@ -98,10 +98,10 @@ https://archive.ics.uci.edu/dataset/320/student+performance
 ![Grade Scatter Plot](grade_scatterplot.png)
 
 # Actual vs Predicted Grades
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted_grades.png)
 
 # Prediction Interface
-![Prediction Interface](prediction_interface.png)
+![Prediction Interface](prediction_final_grade.png)
 
  9. How to Run the Project
 
